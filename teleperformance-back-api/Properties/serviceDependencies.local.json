@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/project-teleperformance/databases/teleperformance",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:teleperformance1",
+      "secretStore": "LocalSecretsFile"
+    }
+  }
+}

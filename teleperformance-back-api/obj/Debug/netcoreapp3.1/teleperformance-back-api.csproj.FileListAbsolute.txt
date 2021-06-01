@@ -48,7 +48,6 @@ C:\Users\Usuario\source\repos\teleperformance-back\teleperformance-back-api\bin\
 C:\Users\Usuario\source\repos\teleperformance-back\teleperformance-back-api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\Usuario\source\repos\teleperformance-back\teleperformance-back-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Usuario\source\repos\teleperformance-back\teleperformance-back-api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Usuario\source\repos\teleperformance-back\teleperformance-back-api\obj\Debug\netcoreapp3.1\teleperformance-back-api.csproj.AssemblyReference.cache
 C:\Users\Usuario\source\repos\teleperformance-back\teleperformance-back-api\obj\Debug\netcoreapp3.1\teleperformance-back-api.AssemblyInfoInputs.cache
 C:\Users\Usuario\source\repos\teleperformance-back\teleperformance-back-api\obj\Debug\netcoreapp3.1\teleperformance-back-api.AssemblyInfo.cs
 C:\Users\Usuario\source\repos\teleperformance-back\teleperformance-back-api\obj\Debug\netcoreapp3.1\teleperformance-back-api.csproj.CoreCompileInputs.cache

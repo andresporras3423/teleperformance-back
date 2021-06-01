@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>teleperformance_back_api</RootNamespace>
+    <UserSecretsId>da350570-9d50-4c09-bb5b-3bf9050d7e20</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
